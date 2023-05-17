@@ -22,7 +22,8 @@ class MainActivity : AppCompatActivity() {
     lateinit var etPassword: TextInputEditText
     lateinit var etConfirmPassword: TextInputEditText
     lateinit var btSignUp: Button
-    
+
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
